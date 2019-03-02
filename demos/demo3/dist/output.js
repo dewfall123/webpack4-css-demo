@@ -103,9 +103,9 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _mai
   !*** ./main.less ***!
   \*******************/
 /*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
+/***/ (function(module, exports) {
 
-eval("// extracted by mini-css-extract-plugin\n\n//# sourceURL=webpack:///./main.less?");
+eval("// removed by extract-text-webpack-plugin\n\n//# sourceURL=webpack:///./main.less?");
 
 /***/ })
 
