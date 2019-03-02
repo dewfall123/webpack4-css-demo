@@ -1,0 +1,8 @@
+p {
+    color: red;
+}
+
+.testPrefix {
+    display: flex;
+    transform: all 1s;
+}
